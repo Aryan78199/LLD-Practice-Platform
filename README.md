@@ -39,7 +39,7 @@ npm run dev
 ```
 
 Frontend: http://localhost:5173  
-Backend: http://localhost:4000
+Backend: http://localhost:5001/api/health
 
 ## Run tests
 
